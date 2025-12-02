@@ -1,0 +1,614 @@
+[
+  {
+    "term": "header.about",
+    "definition": "About",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "header.features",
+    "definition": "Features",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "header.blog",
+    "definition": "Blog",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "header.event",
+    "definition": "Event",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "header.pricing",
+    "definition": "Pricing",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "button.startForFree",
+    "definition": "Start For Free",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "",
+    "definition": "",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  }
+]
