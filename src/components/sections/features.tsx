@@ -14,7 +14,7 @@ const FeaturesSection: React.FC = () => {
         <div className='space-y-4 md:space-y-10 xl:space-y-16'>
           <div>
             <div className='grid gap-8 py-4 md:py-6 xl:grid-cols-2 xl:p-8'>
-              <div className='mx-auto w-full max-w-[848px] rounded-3xl border border-[#24242A] bg-[#151519]'>
+              <div className='mx-auto flex w-full max-w-[848px] items-center justify-center rounded-3xl border border-[#24242A] bg-[#151519] p-4 md:p-8 xl:p-12'>
                 <Image src={FeatureImage1} alt='' />
               </div>
 
@@ -32,7 +32,7 @@ const FeaturesSection: React.FC = () => {
             </div>
 
             <div className='grid gap-8 py-4 md:py-6 xl:grid-cols-2 xl:p-8'>
-              <div className='mx-auto w-full max-w-[848px] rounded-3xl border border-[#24242A] bg-[#151519]'>
+              <div className='mx-auto flex w-full max-w-[848px] items-center justify-center rounded-3xl border border-[#24242A] bg-[#151519] p-4 md:p-8 xl:p-12'>
                 <Image src={FeatureImage2} alt='' />
               </div>
 
@@ -53,7 +53,7 @@ const FeaturesSection: React.FC = () => {
             </div>
 
             <div className='grid gap-8 py-4 md:py-6 xl:grid-cols-2 xl:p-8'>
-              <div className='mx-auto flex h-[460px] w-full max-w-[848px] items-center justify-center rounded-3xl border border-[#24242A] bg-[#151519]'>
+              <div className='mx-auto flex w-full max-w-[848px] items-center justify-center rounded-3xl border border-[#24242A] bg-[#151519] px-4 py-2 md:px-8 md:py-4 xl:px-12 xl:py-6'>
                 <Image src={FeatureImage3} alt='' />
               </div>
 
